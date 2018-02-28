@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "779180891991",
+    "firebase_url": "https://myapp-dd377.firebaseio.com",
+    "project_id": "myapp-dd377",
+    "storage_bucket": "myapp-dd377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779180891991:android:bd1c939d4acb282b",
+        "android_client_info": {
+          "package_name": "com.example.richmindep.alertemergency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779180891991-8aps0tbb1nh44ttvre41ft0fo8h4r469.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.richmindep.alertemergency",
+            "certificate_hash": "dec1c8415363e1ef91a28c6d1f6fa48394ba7705"
+          }
+        },
+        {
+          "client_id": "779180891991-bglh292entanb010snnn7pdv51hjr0cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9rJTa3P8M57xfJicnLnwrGt38hGbCvM8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779180891991-bglh292entanb010snnn7pdv51hjr0cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

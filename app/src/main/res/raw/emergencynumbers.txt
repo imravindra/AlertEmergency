@@ -1,0 +1,85 @@
+All in one Emergency Number	112
+Air ambulance	9540161344
+Police	100
+Fire Brigade	101
+Ambulance	102
+Traffic Police	103
+Anti Corruption Helpline	1031
+Women In Distress	1091
+Domestic abuse and sexual violence-Women's Helpline	181
+Emergency Relief Centre on National Highways	1033
+State level helpline for Health	104
+Anti poison	1066
+Aaykar Sampark Kendra (ASK)	1961
+Child abuse hotline	1098
+Central Relief Commissioner for Natural Calamities	1070
+Air Accident	1071
+Train Accident	1072
+Road Accident Or Traffic Helpline	1073
+Control room of District Collector/Magistrate	1077
+Disaster Management	108
+Anti terror Helpline/Alert All India	1090
+MyGov Toll Free Number for MannKiBaat for ideas and suggestions	1800117800
+Mann Ki Baat on the toll-free number	1800300780
+Earth-quake Help line service	1092
+Natural disaster control room	1096
+AIDS Helpline	1097
+Central Accident and Trauma Services	1099
+General emergency Department of Telecommunications (DoT)	112
+LIC Of India	1251
+Public Grievance Cell Telecom Circle HQs	12727
+Indian Railway General Enquiry	1320
+For any theft or harassment, nuisance caused due to smoking or alcohol consumption on train	1322
+Indian Railway Security Helpline	1322
+Railway Helpline for Arrival/Departure and Reservation services	133
+Railway Enquiry	139
+Indian Airlines	1407
+Air India ( Confirmation / Cancellation Enquiry)(Called Party)	1414
+for any queries related to landline telephone, ISDN etc. Also accessible from CellOne, Excel & Tarang phones	1500
+Railway	1512
+Kisan Call Center	1551
+Military Police Help Line	155200
+Indian Oil Help Line	155233
+Insurance Regulatory and Development Authority (IRDA)	155255
+Water Board	155313
+Electricity Complaints	155333
+Trunk Booking	1580
+Trunk Assistance	1581
+STD Complaints	1582
+National Directory Enquiry (NDQ) Service	1583
+International trunk booking	1586
+International Trunk Enquiry	1587
+International Trunk Delay Information	1588
+Telax Complaints	1589
+Free Phone Enquiry	1600
+Indian Telphone Card Enquiry	1602
+Billing complaint center	166
+Weather Enquiry	1717
+Maritime Search and Rescue control room of coastal guard	1718
+Drug de-addiction	1800110031
+National Consumer Helpline	180011400
+IRCTC Help Line	1800111139
+National Health Helpline	18001801104
+Anti Ragging-Emails at helpline@antiragging.in	18001805522
+Indian Army Help Line	1904
+LPG emergency helpline number	1906
+Blood Bank Information	1910
+Dial A Doctor	1911
+Tourist Office(Govt.of India)	1913
+Water Supply Complain	1916
+Leased Circuits Fault Booking	1918
+Eye bank information service	1919
+Eye Donation	1919
+Aadhar Card-UIDAI (Unique idenditification authority of india),1800-180-1947	1947
+Election Commission of India	1950
+Sancharnet Internet Help desk service	1957
+Leased Circuit Fault Booking (WTR)	1958
+Directory enquiry service	197
+Telephone Complaint Booking	198
+
+
+
+
+
+
+
